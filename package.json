@@ -1,0 +1,19 @@
+{
+  "name": "wellnessbot",
+  "version": "1.0.0",
+  "description": "Slackbot that features \"On this day in history\" fact, advice, and motivational quote.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ic372/WellnessBot.git"
+  },
+  "author": "Ivy Cao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ic372/WellnessBot/issues"
+  },
+  "homepage": "https://github.com/ic372/WellnessBot#readme"
+}
